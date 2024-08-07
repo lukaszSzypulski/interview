@@ -1,4 +1,5 @@
-import interview.*;
+package interview;
+
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
